@@ -1,0 +1,11 @@
+{
+  "name": "node-http2-test",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node --expose-http2 src/index.js"
+  },
+  "main": "src/index.js",
+  "repository": "https://github.com/tiagor87/node-http2-test.git",
+  "license": "MIT",
+  "devDependencies": {}
+}
